@@ -1,7 +1,8 @@
 package utilities;
 
 public class BrowserUtils {
- // class created
+    // class created
 
+    // class updated
 
 }
